@@ -578,5 +578,6 @@ public class SwingFileUploadFTP extends javax.swing.JFrame implements PropertyCh
     }
     public void info(){
         System.out.println("This is info");
+        System.out.println("info again");
     }
 }
